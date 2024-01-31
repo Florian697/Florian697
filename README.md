@@ -9,9 +9,9 @@
 </div>
 
 
+---
 
-
-#About Me :
+About Me :
 
 
 I am a DevOps enginer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">

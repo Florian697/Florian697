@@ -64,4 +64,3 @@ I am a DevOps enginer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ·Excellent problem-solving and troubleshooting skills.
 
-How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-butkevich-5997a5265/)
